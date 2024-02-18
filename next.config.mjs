@@ -4,9 +4,9 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'media.licdn.com',
+        hostname: 'avatars.githubusercontent.com',
         port: '',
-        pathname: '/dms/image/D5603AQGBCIQqwg4HrA/profile-displayphoto-shrink_200_200/**',
+        pathname: '/u/42955693/**',
       },
     ],
   },
