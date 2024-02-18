@@ -4,7 +4,6 @@ import { Inbox, Linkedin } from "lucide-react";
 
 export default async function Home() {
   const data = await getSheetData();
-  console.log("data", data);
 
   return (
     <div
